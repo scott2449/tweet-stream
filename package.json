@@ -4,9 +4,12 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "Sentimental": "^1.0.1",
     "colors": "^1.0.3",
     "sentiment": "^1.0.2",
-    "twit": "^1.1.19"
+    "twit": "^1.1.19",
+    "tessel": "^0.3.19",
+    "twitter": "^1.0.3"
   },
   "devDependencies": {},
   "scripts": {
